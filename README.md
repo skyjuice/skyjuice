@@ -9,6 +9,7 @@
 <!-- Social links -->
 <a href="https://github.com/skyjuice"><img src="https://img.shields.io/badge/GitHub-skyjuice-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://faizan.my"><img src="https://img.shields.io/badge/Website-faizan.my-8B5CF6?style=for-the-badge&logo=globe&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/skyjuice"><img src="https://img.shields.io/badge/LinkedIn-skyjuice-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:perwaja@gmail.com"><img src="https://img.shields.io/badge/Email-perwaja%40gmail.com-DB2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/skyjuice"><img src="https://img.shields.io/github/followers/skyjuice?style=for-the-badge&logo=github&label=Follow&color=blueviolet" alt="Followers" /></a>
 
