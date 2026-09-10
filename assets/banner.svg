@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="340" viewBox="0 0 800 340" font-family="'Courier New','IBM Plex Mono',Consolas,'Lucida Console',monospace"><rect x="0" y="0" width="800" height="340" rx="6" fill="#1c150a" stroke="#3a2c10" stroke-width="1"/>
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#ffb000"/><stop offset="100%" stop-color="#ff6a00"/>
+</linearGradient>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+  <rect width="4" height="1.6" fill="#000000" opacity="0.16"/>
+</pattern>
+<radialGradient id="vig" cx="50%" cy="42%" r="75%">
+  <stop offset="55%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+  <feGaussianBlur stdDeviation="2.6" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="16" y="16" width="768" height="308" rx="8" fill="#0b0803" stroke="#ffb000" stroke-opacity="0.35" stroke-width="1"/>
+<text x="34" y="44" font-size="13" fill="#ffb000">MOHAFIZAAN-OS <tspan fill="#b37400">v4.2.2010 // BIOS</tspan></text>
+<text x="766" y="44" font-size="12" fill="#8a6a2a" text-anchor="end">MEM OK · CRT 60HZ</text>
+<line x1="34" y1="54" x2="766" y2="54" stroke="#ffb000" stroke-opacity="0.25" stroke-width="1"/>
+<g filter="url(#glow)"><rect x="184" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="196" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="208" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="220" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="232" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="184" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="184" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="196" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="208" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="220" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="184" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="184" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="268" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="280" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="292" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="256" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="304" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="256" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="268" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="280" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="292" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="304" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="256" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="304" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="256" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="304" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="328" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="340" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="352" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="364" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="376" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="352" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="352" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="352" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="328" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="340" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="352" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="364" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="376" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="400" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="412" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="424" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="436" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="448" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="436" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="424" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="412" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="400" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="412" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="424" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="436" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="448" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="484" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="496" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="508" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="472" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="520" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="472" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="484" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="496" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="508" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="520" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="472" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="520" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="472" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="520" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="544" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="592" y="92" width="12" height="12" fill="#ffb000"/>
+<rect x="544" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="556" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="592" y="104" width="12" height="12" fill="#ffb000"/>
+<rect x="544" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="568" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="592" y="116" width="12" height="12" fill="#ffb000"/>
+<rect x="544" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="580" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="592" y="128" width="12" height="12" fill="#ffb000"/>
+<rect x="544" y="140" width="12" height="12" fill="#ffb000"/>
+<rect x="592" y="140" width="12" height="12" fill="#ffb000"/></g>
+<text x="400" y="190" font-size="21" letter-spacing="4" fill="#ffd27f" text-anchor="middle">ENTERPRISE APPLICATION MAGICIAN</text>
+<text x="34" y="228" font-size="14" fill="#b37400">> LOADING PROFILE.SYS ......... OK</text>
+<text x="34" y="252" font-size="14" fill="#b37400">> LOADING SKILLS.DAT .......... OK</text>
+<text x="34" y="276" font-size="14" fill="#b37400">> ESTABLISHING UPLINK ......... 56K</text>
+<text x="34" y="300" font-size="14" fill="#b37400">> READY.</text>
+<rect x="107" y="287" width="10" height="14" fill="#ffb000"/>
+<text x="34" y="316" font-size="11" fill="#8a6a2a">(C) 2010-2026 SKYJUICE LABS</text>
+<text x="766" y="316" font-size="11" fill="#8a6a2a" text-anchor="end">[ CRT OUTPUT // 800x340 ]</text>
+<rect x="0" y="0" width="800" height="340" fill="url(#scan)"/><rect x="0" y="0" width="800" height="340" fill="url(#vig)"/>
+</svg>
