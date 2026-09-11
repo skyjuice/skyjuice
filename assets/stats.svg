@@ -20,7 +20,7 @@
 <text x="480" y="28" font-size="10" fill="#8a6a2a" text-anchor="end">[SINCE 2010]</text>
 <text x="77.5" y="62" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">0</text>
 <text x="77.5" y="80" font-size="9" letter-spacing="2" fill="#b37400" text-anchor="middle">TOTAL STARS</text>
-<text x="192.5" y="62" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">5</text>
+<text x="192.5" y="62" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">6</text>
 <text x="192.5" y="80" font-size="9" letter-spacing="2" fill="#b37400" text-anchor="middle">COMMITS</text>
 <text x="307.5" y="62" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">0</text>
 <text x="307.5" y="80" font-size="9" letter-spacing="2" fill="#b37400" text-anchor="middle">PULL REQUESTS</text>
