@@ -32,7 +32,7 @@
 <text x="192.5" y="146" font-size="9" letter-spacing="2" fill="#b37400" text-anchor="middle">FOLLOWERS</text>
 <text x="307.5" y="128" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">4</text>
 <text x="307.5" y="146" font-size="9" letter-spacing="2" fill="#b37400" text-anchor="middle">FOLLOWING</text>
-<text x="422.5" y="128" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">15</text>
+<text x="422.5" y="128" font-size="23" font-weight="700" fill="#ffd27f" text-anchor="middle" filter="url(#glow)">16</text>
 <text x="422.5" y="146" font-size="9" letter-spacing="2" fill="#b37400" text-anchor="middle">YEARS ONLINE</text>
 <rect x="0" y="0" width="500" height="205" fill="url(#scan)"/><rect x="0" y="0" width="500" height="205" fill="url(#vig)"/>
 </svg>
